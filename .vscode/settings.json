@@ -1,0 +1,33 @@
+{
+  "workbench.editor.labelFormat": "short",
+  "editor.tabSize": 2,
+  "editor.lineNumbers": "off",
+
+  // Formata o código automaticamente ao salvar
+  "editor.formatOnSave": true,
+
+  // Remove espaços em branco no final das linhas
+  "files.trimTrailingWhitespace": true,
+
+  // Salva arquivos automaticamente ao mudar de foco
+  "files.autoSave": "onFocusChange",
+
+  // Define tamanho da fonte
+  "editor.fontSize": 14,
+
+  // Envolve linhas longas automaticamente
+  "editor.wordWrap": "on",
+
+  // Sugestão automática de código
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 76,
+  "prettier.semi": true,
+
+  // Mostra minimapa do código (pode desativar com "false" se quiser mais espaço)
+  "editor.minimap.enabled": false
+}
