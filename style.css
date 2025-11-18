@@ -446,6 +446,7 @@ header .box-header nav a {
   }
   header .box-header nav a {
     font-size: 10px;
+    cursor: pointer;
   }
   header .box-banner {
     display: flex;
