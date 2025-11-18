@@ -435,6 +435,9 @@ header .box-header nav a {
   header {
     background-image: url("");
   }
+  .alertasImportantes section {
+    width: 98vw;
+  }
   .rodape .artigosRodape {
     width: 98%;
   }
