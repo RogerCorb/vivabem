@@ -470,6 +470,18 @@ header {
   header {
     background-image: url("");
   }
+  .rodape {
+    .artigosRodape {
+      width: 98%;
+      article {
+        width: 45%;
+        h5,
+        p {
+          width: 100%;
+        }
+      }
+    }
+  }
 }
 
 @media (min-width: 201px) and (max-width: 500px) {

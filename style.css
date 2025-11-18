@@ -435,6 +435,16 @@ header .box-header nav a {
   header {
     background-image: url("");
   }
+  .rodape .artigosRodape {
+    width: 98%;
+  }
+  .rodape .artigosRodape article {
+    width: 45%;
+  }
+  .rodape .artigosRodape article h5,
+  .rodape .artigosRodape article p {
+    width: 100%;
+  }
 }
 @media (min-width: 201px) and (max-width: 500px) {
   header {
