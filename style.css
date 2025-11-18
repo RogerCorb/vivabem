@@ -431,7 +431,7 @@ header .box-header nav a {
   width: 100%;
 }
 
-@media (min-width: 901px) and (max-width: 1000px) {
+@media (min-width: 500px) and (max-width: 1000px) {
   header {
     background-image: url("");
   }
