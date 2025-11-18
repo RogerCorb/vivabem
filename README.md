@@ -26,7 +26,7 @@ www.linkedin.com/in/rogerio-corbo
 ## 💻 Telas do programa
 
 <div>
-  <img src="/img/fotohome.jpg" width=350 alt="Pagina home" title="Foto da Pagina viva bem" > 
+  <img src="/img/fotohome.JPG" width=350 alt="Pagina home" title="Foto da Pagina viva bem" > 
 </div>
 
 
