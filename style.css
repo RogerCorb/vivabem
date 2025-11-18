@@ -501,14 +501,24 @@ header .box-header nav a {
     padding: 0%;
     font-size: 24px;
   }
+  .titulo-article img {
+    width: 31px;
+    height: 31px;
+  }
   .titulo-article h3 {
-    font-size: 20px;
+    font-size: 19px;
   }
   .rosa,
   .azul,
   .verde,
   .amarelo {
-    min-width: 304px;
+    min-width: 311px;
+  }
+  .rosa p,
+  .azul p,
+  .verde p,
+  .amarelo p {
+    font-size: 15px;
   }
   .rodape {
     display: flex;

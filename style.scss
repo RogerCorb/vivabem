@@ -550,15 +550,22 @@ header {
     }
   }
   .titulo-article {
+    img {
+      width: 31px;
+      height: 31px;
+    }
     h3 {
-      font-size: 20px;
+      font-size: 19px;
     }
   }
   .rosa,
   .azul,
   .verde,
   .amarelo {
-    min-width: 304px;
+    min-width: 311px;
+    p {
+      font-size: 15px;
+    }
   }
   .rodape {
     display: flex;
