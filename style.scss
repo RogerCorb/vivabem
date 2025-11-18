@@ -505,6 +505,8 @@ header {
         }
         div {
           display: flex;
+          justify-content: center;
+
           gap: 10px;
           .porIdade {
             width: 162px;
