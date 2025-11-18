@@ -569,7 +569,7 @@ header .box-header nav a {
     height: 125px;
   }
   .rodape .artigosRodape .prevencao img {
-    margin-left: 0%;
+    padding-left: 0%;
     width: 145px;
     height: 34px;
   }
