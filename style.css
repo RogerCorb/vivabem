@@ -511,6 +511,9 @@ header .box-header nav a {
     padding: 0%;
     font-size: 32px;
   }
+  .alertasImportantes {
+    padding: 15px 0px 5px 0px;
+  }
   .alertasImportantes section {
     width: 98vw;
     text-align: center;
