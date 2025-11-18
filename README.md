@@ -8,7 +8,7 @@ Vai na Web, de desenvolvimento fullstacku,afim de praticarmos os conhecimentos a
 ## Hospedagem / Deploy 
 
 Este projeto esta publicado aqui em Githubpages, e voce pode rodar o mesmo em seu desktop ou celular através do link 
-https://rogercorb.github.io/decodificador-textos/
+https://rogercorb.github.io/vivabem/
 
 ## Relatar um problema 
 
