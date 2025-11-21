@@ -119,11 +119,11 @@ header {
   .artigosRotina {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    // align-items: center;
     row-gap: 15px;
     width: 73vw;
     margin-top: 20px;
-    justify-content: space-between;
+    justify-content: center;
     article {
       display: flex;
       flex-direction: column;
